@@ -7,7 +7,7 @@ from sklearn.ensemble import RandomForestRegressor #RandomForest model
 
 
 
-#understand the dataset
+# understand the dataset
 # save filepath
 melbourne_file_path = '/Users/paris/OneDrive/Desktop/Prog_docum/home-data-for-ml-course/melb_data.csv'
 # read the data and store data in DataFrame titled melbourne_data
